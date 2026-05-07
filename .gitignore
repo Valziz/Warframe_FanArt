@@ -81,3 +81,8 @@ GameAnimationSample/Saved/AutoScreenshot.png
 *.log
 *.log
 *.txt
+GameAnimationSample/Intermediate/CachedAssetRegistry_0.bin
+GameAnimationSample/Intermediate/CachedAssetRegistryDiscovery.bin
+GameAnimationSample/Saved/AutoScreenshot.png
+GameAnimationSample/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+GameAnimationSample/Saved/Logs/GameAnimationSample.log

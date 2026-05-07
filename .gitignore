@@ -72,4 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-GameAnimationSample/Saved/Logs/GameAnimationSample.log
+*.bin
+GameAnimationSample/Saved/AutoScreenshot.png
+*.png
+*.ini
+*.bin
+*.png
+*.log
+*.log
+*.txt

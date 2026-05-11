@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/cajv.paris/Documents/GitHub/Warframe_FanArt/GameAnimationSample/Content/CorruptedHallWay/Lvl_CorruptedHallWay.umap",
-				"C:/Users/cajv.paris/Documents/GitHub/Warframe_FanArt/GameAnimationSample/Content/Blueprints/CBP_SandboxCharacter.uasset",
 				"C:/Users/cajv.paris/Documents/Unreal Projects/GameAnimationSample/Content/Blueprints/CBP_SandboxCharacter.uasset",
 				"C:/Users/cajv.paris/Documents/Unreal Projects/GameAnimationSample/Content/Arthur/SK_ArthurV1.uasset",
 				"C:/Users/cajv.paris/Documents/Unreal Projects/GameAnimationSample/Content/Arthur/SK_ArthurV1_PhysicsAsset.uasset",
@@ -143,7 +141,30 @@
 				"D:/Warframe_FanArt/GameAnimationSample/Content/Arthur/Anim/M_Neutral_Traversal_Vault_1_0_stand_F_Lfoot.uasset",
 				"D:/Warframe_FanArt/GameAnimationSample/Content/Arthur/Anim/M_Neutral_Traversal_Vault_1_0_walk_F_Rfoot.uasset",
 				"D:/Warframe_FanArt/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/ExperimentalStateMachineData/PSD_SM_LocoTransitions.uasset",
-				"D:/Warframe_FanArt/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/PSD_Traversal.uasset"
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/PSD_Traversal.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Echo.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Manny.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Metahuman_Bodies.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Metahuman_Kellan.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Quinn.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_RetargetShowcase_Mannequins.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_SetupComparison.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_TwinBlast.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_UE4_Mannequin.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Balanced_Aim.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Balanced_Freecam.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Balanced_Strafe.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Close_Aim.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Close_Freecam.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Close_Strafe.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Crouch_Offset.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Far_Aim.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Far_Freecam.uasset",
+				"D:/Warframe_FanArt/GameAnimationSample/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Far_Strafe.uasset",
+				"C:/Users/cajv.paris/Documents/GitHub/Warframe_FanArt/GameAnimationSample/Content/CorruptedHallWay/Lvl_CorruptedHallWay.umap",
+				"C:/Users/cajv.paris/Documents/GitHub/Warframe_FanArt/GameAnimationSample/Content/Blueprints/CBP_SandboxCharacter.uasset"
 			]
 		}
 	]
